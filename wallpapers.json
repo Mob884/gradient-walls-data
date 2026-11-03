@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated": "2026-11-03",
-  "base_url": "https://raw.githubusercontent.com/Mob884/gradient-walls-data/main/",
+  "base_url": "https://raw.githubusercontent.com/Mob884/gradient-walls-data/77849a0894f6b7fc8742e35fe36d5471d0725f11/",
   "categories": [
     {
       "id": "space",
@@ -52,7 +52,8 @@
       "color": "#5F4C69",
       "premium": false,
       "added": "2026-11-03",
-      "credit": "AI-generated (Cloudflare SDXL-Lightning)"
+      "credit": "AI-generated (Cloudflare SDXL-Lightning)",
+      "ai": true
     },
     {
       "id": "space-002",
@@ -71,7 +72,8 @@
       "color": "#3F494C",
       "premium": false,
       "added": "2026-11-03",
-      "credit": "AI-generated (Cloudflare SDXL-Lightning)"
+      "credit": "AI-generated (Cloudflare SDXL-Lightning)",
+      "ai": true
     },
     {
       "id": "city-003",
@@ -90,7 +92,8 @@
       "color": "#3D0D32",
       "premium": false,
       "added": "2026-11-03",
-      "credit": "AI-generated (Cloudflare SDXL-Lightning)"
+      "credit": "AI-generated (Cloudflare SDXL-Lightning)",
+      "ai": true
     },
     {
       "id": "city-004",
@@ -108,14 +111,14 @@
       "color": "#8A2B2F",
       "premium": false,
       "added": "2026-11-03",
-      "credit": "AI-generated (Cloudflare SDXL-Lightning)"
+      "credit": "AI-generated (Cloudflare SDXL-Lightning)",
+      "ai": true
     },
     {
       "id": "sunset-005",
       "title": "Crimson Field",
       "category": "sunset",
       "tags": [
-        "sunset",
         "sunset",
         "sky",
         "clouds"
@@ -127,14 +130,14 @@
       "color": "#B12D52",
       "premium": false,
       "added": "2026-11-03",
-      "credit": "AI-generated (Cloudflare SDXL-Lightning)"
+      "credit": "AI-generated (Cloudflare SDXL-Lightning)",
+      "ai": true
     },
     {
       "id": "sunset-006",
       "title": "Violet Dusk",
       "category": "sunset",
       "tags": [
-        "sunset",
         "sunset",
         "sky",
         "clouds"
@@ -146,7 +149,8 @@
       "color": "#CB2E3F",
       "premium": false,
       "added": "2026-11-03",
-      "credit": "AI-generated (Cloudflare SDXL-Lightning)"
+      "credit": "AI-generated (Cloudflare SDXL-Lightning)",
+      "ai": true
     },
     {
       "id": "dark-007",
@@ -155,7 +159,6 @@
       "tags": [
         "dark",
         "amoled",
-        "dark",
         "minimal"
       ],
       "thumb": "thumbs/dark-007.webp",
@@ -165,7 +168,8 @@
       "color": "#264675",
       "premium": false,
       "added": "2026-11-03",
-      "credit": "AI-generated (Cloudflare SDXL-Lightning)"
+      "credit": "AI-generated (Cloudflare SDXL-Lightning)",
+      "ai": true
     },
     {
       "id": "dark-008",
@@ -174,7 +178,6 @@
       "tags": [
         "dark",
         "amoled",
-        "dark",
         "minimal"
       ],
       "thumb": "thumbs/dark-008.webp",
@@ -184,14 +187,14 @@
       "color": "#3D152E",
       "premium": false,
       "added": "2026-11-03",
-      "credit": "AI-generated (Cloudflare SDXL-Lightning)"
+      "credit": "AI-generated (Cloudflare SDXL-Lightning)",
+      "ai": true
     },
     {
       "id": "forest-009",
       "title": "Pine Mist",
       "category": "forest",
       "tags": [
-        "forest",
         "forest",
         "fog",
         "nature"
@@ -203,14 +206,14 @@
       "color": "#95958C",
       "premium": false,
       "added": "2026-11-03",
-      "credit": "AI-generated (Cloudflare SDXL-Lightning)"
+      "credit": "AI-generated (Cloudflare SDXL-Lightning)",
+      "ai": true
     },
     {
       "id": "forest-010",
       "title": "Misty Trail",
       "category": "forest",
       "tags": [
-        "forest",
         "forest",
         "fog",
         "path"
@@ -222,14 +225,14 @@
       "color": "#7B8C84",
       "premium": false,
       "added": "2026-11-03",
-      "credit": "AI-generated (Cloudflare SDXL-Lightning)"
+      "credit": "AI-generated (Cloudflare SDXL-Lightning)",
+      "ai": true
     },
     {
       "id": "ocean-011",
       "title": "Shoreline Foam",
       "category": "ocean",
       "tags": [
-        "ocean",
         "ocean",
         "beach",
         "waves"
@@ -241,14 +244,14 @@
       "color": "#E8CEB6",
       "premium": false,
       "added": "2026-11-03",
-      "credit": "AI-generated (Cloudflare SDXL-Lightning)"
+      "credit": "AI-generated (Cloudflare SDXL-Lightning)",
+      "ai": true
     },
     {
       "id": "ocean-012",
       "title": "Deep Swell",
       "category": "ocean",
       "tags": [
-        "ocean",
         "ocean",
         "sea",
         "waves"
@@ -260,7 +263,9 @@
       "color": "#85878C",
       "premium": false,
       "added": "2026-11-03",
-      "credit": "AI-generated (Cloudflare SDXL-Lightning)"
+      "credit": "AI-generated (Cloudflare SDXL-Lightning)",
+      "ai": true
     }
-  ]
+  ],
+  "base_url_fallback": "https://cdn.jsdelivr.net/gh/Mob884/gradient-walls-data@77849a0894f6b7fc8742e35fe36d5471d0725f11/"
 }
