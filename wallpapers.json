@@ -468,6 +468,38 @@
       "ai": true,
       "added": "2026-11-17",
       "credit": "Yes"
+    },
+    {
+      "id": "anime-002",
+      "title": "Solo Leveling Igris Duel Full 1440x3120",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "solo leveling",
+        "sung jinwoo",
+        "igris",
+        "igris the bloodred",
+        "jinwoo vs igris",
+        "anime fight",
+        "dungeon battle",
+        "shadow monarch",
+        "red knight",
+        "anime action",
+        "dark fantasy",
+        "anime lockscreen",
+        "anime wallpaper",
+        "boss fight",
+        "manhwa wallpaper"
+      ],
+      "thumb": "thumbs/anime-002.webp",
+      "full": "full/anime-002.webp",
+      "width": 1440,
+      "height": 3120,
+      "color": "#483e52",
+      "premium": false,
+      "ai": true,
+      "added": "2026-11-17",
+      "credit": "Yes"
     }
   ],
   "base_url_fallback": "https://cdn.jsdelivr.net/gh/Mob884/gradient-walls-data@0d893107678ebdc86bcf5df955ada6f24d388c37/"
