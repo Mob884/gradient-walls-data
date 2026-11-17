@@ -535,6 +535,43 @@
       "ai": true,
       "added": "2026-11-17",
       "credit": "Yes"
+    },
+    {
+      "id": "anime-004",
+      "title": "Demon Slayer Tanjiro Battle Full 1440x3120",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "demon slayer",
+        "kimetsu no yaiba",
+        "tanjiro kamado",
+        "nezuko kamado",
+        "zenitsu agatsuma",
+        "inosuke hashibira",
+        "muzan kibutsuji",
+        "water breathing",
+        "hinokami kagura",
+        "anime fight",
+        "demon battle",
+        "hashira",
+        "anime wallpaper",
+        "demon slayer wallpaper",
+        "anime lockscreen",
+        "dark fantasy",
+        "japanese anime",
+        "anime action",
+        "manga art",
+        "mobile wallpaper"
+      ],
+      "thumb": "thumbs/anime-004.webp",
+      "full": "full/anime-004.webp",
+      "width": 1440,
+      "height": 3120,
+      "color": "#554d60",
+      "premium": false,
+      "ai": true,
+      "added": "2026-11-17",
+      "credit": "Yes"
     }
   ],
   "base_url_fallback": "https://cdn.jsdelivr.net/gh/Mob884/gradient-walls-data@1c85fbbd2c576584db0509613fa4efd6763e3980/"
