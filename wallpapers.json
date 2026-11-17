@@ -572,6 +572,43 @@
       "ai": true,
       "added": "2026-11-17",
       "credit": "Yes"
+    },
+    {
+      "id": "anime-005",
+      "title": "Black Clover Asta Battle Full 1440x3120",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "black clover",
+        "asta",
+        "asta wallpaper",
+        "yuno",
+        "black bulls",
+        "yami sukehiro",
+        "noelle silva",
+        "anti magic",
+        "demon dweller sword",
+        "demon slayer sword",
+        "black clover anime",
+        "anime battle",
+        "magic knights",
+        "anime fighting",
+        "shonen anime",
+        "anime lockscreen",
+        "anime phone wallpaper",
+        "dark fantasy",
+        "manga wallpaper",
+        "anime art"
+      ],
+      "thumb": "thumbs/anime-005.webp",
+      "full": "full/anime-005.webp",
+      "width": 1440,
+      "height": 3120,
+      "color": "#665457",
+      "premium": false,
+      "ai": true,
+      "added": "2026-11-17",
+      "credit": "Yes"
     }
   ],
   "base_url_fallback": "https://cdn.jsdelivr.net/gh/Mob884/gradient-walls-data@2b3f62d8f7b02cd83b606170245403d9e0d30137/"
