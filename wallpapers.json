@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "base_url": "https://raw.githubusercontent.com/Mob884/gradient-walls-data/3a3dac859eda8bab98639791ba7cf0eb2cf314e1/",
   "categories": [
     {
@@ -32,6 +32,11 @@
       "id": "ocean",
       "name": "Ocean",
       "order": 6
+    },
+    {
+      "id": "anime",
+      "name": "Anime",
+      "order": 7
     }
   ],
   "wallpapers": [
@@ -426,6 +431,43 @@
       "ai": true,
       "added": "2026-11-16",
       "credit": "yes"
+    },
+    {
+      "id": "anime-001",
+      "title": "Solo Leveling Shadow Monarch Full 1440x3120",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "solo leveling",
+        "sung jinwoo",
+        "shadow monarch",
+        "anime wallpaper",
+        "anime phone wallpaper",
+        "jinwoo wallpaper",
+        "igris",
+        "beru",
+        "shadow army",
+        "manhwa wallpaper",
+        "dark anime",
+        "anime aesthetic",
+        "purple aura",
+        "blue eyes",
+        "anime 3d art",
+        "fantasy anime",
+        "korean anime",
+        "anime lockscreen",
+        "mobile anime background",
+        "action anime"
+      ],
+      "thumb": "thumbs/anime-001.webp",
+      "full": "full/anime-001.webp",
+      "width": 1440,
+      "height": 3120,
+      "color": "#333d74",
+      "premium": false,
+      "ai": true,
+      "added": "2026-11-17",
+      "credit": "Yes"
     }
   ],
   "base_url_fallback": "https://cdn.jsdelivr.net/gh/Mob884/gradient-walls-data@3a3dac859eda8bab98639791ba7cf0eb2cf314e1/"
