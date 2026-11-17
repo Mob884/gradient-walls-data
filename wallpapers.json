@@ -609,6 +609,43 @@
       "ai": true,
       "added": "2026-11-17",
       "credit": "Yes"
+    },
+    {
+      "id": "anime-006",
+      "title": "Shangri La Frontier Full 1440x3120",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "shangri la frontier",
+        "shangri-la frontier wallpaper",
+        "sunraku",
+        "rakuro hizutome",
+        "emul",
+        "psyger 0",
+        "arthur pencilgon",
+        "oikatsuo",
+        "lycagon",
+        "anime gaming",
+        "vrmmorpg",
+        "fantasy anime",
+        "anime battle",
+        "gaming anime",
+        "anime lockscreen",
+        "anime phone wallpaper",
+        "adventure anime",
+        "boss fight",
+        "anime action",
+        "manga wallpaper"
+      ],
+      "thumb": "thumbs/anime-006.webp",
+      "full": "full/anime-006.webp",
+      "width": 1440,
+      "height": 3120,
+      "color": "#686883",
+      "premium": false,
+      "ai": true,
+      "added": "2026-11-17",
+      "credit": "Yes"
     }
   ],
   "base_url_fallback": "https://cdn.jsdelivr.net/gh/Mob884/gradient-walls-data@438a125a3cfb7efa801ead9436a4f2bdd3cf86cb/"
