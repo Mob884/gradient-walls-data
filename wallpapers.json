@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated": "2026-11-17",
-  "base_url": "https://raw.githubusercontent.com/Mob884/gradient-walls-data/438a125a3cfb7efa801ead9436a4f2bdd3cf86cb/",
+  "base_url": "https://raw.githubusercontent.com/Mob884/gradient-walls-data/b67b033f5244136206f3ccf37a9c36f2368c5469/",
   "categories": [
     {
       "id": "space",
@@ -648,5 +648,5 @@
       "credit": "Yes"
     }
   ],
-  "base_url_fallback": "https://cdn.jsdelivr.net/gh/Mob884/gradient-walls-data@438a125a3cfb7efa801ead9436a4f2bdd3cf86cb/"
+  "base_url_fallback": "https://cdn.jsdelivr.net/gh/Mob884/gradient-walls-data@b67b033f5244136206f3ccf37a9c36f2368c5469/"
 }
