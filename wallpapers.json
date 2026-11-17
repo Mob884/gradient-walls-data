@@ -500,6 +500,41 @@
       "ai": true,
       "added": "2026-11-17",
       "credit": "Yes"
+    },
+    {
+      "id": "anime-003",
+      "title": "Sakamoto Days Taro Action Full 1440x3120",
+      "category": "anime",
+      "tags": [
+        "anime",
+        "sakamoto days",
+        "taro sakamoto",
+        "anime fight",
+        "sakamoto wallpaper",
+        "anime action",
+        "legendary assassin",
+        "sakamoto anime",
+        "shin asakura",
+        "japanese anime",
+        "convenience store fight",
+        "anime lockscreen",
+        "anime phone wallpaper",
+        "action anime",
+        "anime aesthetic",
+        "manga wallpaper",
+        "assassin battle",
+        "sakamoto taro",
+        "shonen anime"
+      ],
+      "thumb": "thumbs/anime-003.webp",
+      "full": "full/anime-003.webp",
+      "width": 1440,
+      "height": 3120,
+      "color": "#5c5447",
+      "premium": false,
+      "ai": true,
+      "added": "2026-11-17",
+      "credit": "Yes"
     }
   ],
   "base_url_fallback": "https://cdn.jsdelivr.net/gh/Mob884/gradient-walls-data@dc9ccca14c224f83445a43cc6de62af2ca2ffb35/"
